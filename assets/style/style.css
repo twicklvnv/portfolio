@@ -1,0 +1,114 @@
+.intro {
+    background-color: #fbc3d0;
+}
+.main-background {
+    background-image: url("../images/pexels-photo-490411.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-collapse li {
+    text-align: center;
+}
+
+#navbarSupportedContent {
+    text-align: center;
+}
+
+#linkedin {
+    float: left;
+}
+
+#github {
+    float: right;
+}
+
+h3, h4 {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+    padding-top: 75px;
+}
+
+h4 {
+    padding-top: 150px;
+}
+
+.slogan {
+    color: #8f0000;
+}
+
+.navbar social-links li {
+    display: inline-block;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+}
+
+.about-me {
+    height: 650px;
+    background-image: url("../images/light-grey-terrazzo.png");
+    background-position:center;
+    background-size: cover;
+}
+
+img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#bio {
+    background-color: white;
+    padding-top: 50px;
+    -webkit-box-shadow: 0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#project-intro {
+    background-color: white;
+    padding-top: 25px;
+    -webkit-box-shadow: 0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#projects {
+    background-color: #ffe7dd;
+}
+
+#contact {
+    background-color: #cfe0c3;
+}
+
+#contact-intro {
+    background-color: white;
+    -webkit-box-shadow: 0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#email {
+    background-color: white;
+    -webkit-box-shadow: 0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+#phone {
+    background-color: white;
+    -webkit-box-shadow: 0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
